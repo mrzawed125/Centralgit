@@ -1,2 +1,4 @@
-print ("hello world");
-i have been working on this project since yesterday.
+a = 5
+b= 5
+sum(a+b);
+You guys are not working like a robot.
